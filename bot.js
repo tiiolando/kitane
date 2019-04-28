@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NTQwNDU5NjM5ODQ2ODYyODU5.XLg7lw.eqMzFq0z_Xu_Q6WuV7e4Rx9wLPo');
+client.login(processus.env.TOKEN);
 
 
 //ANCHOR Variable globales
